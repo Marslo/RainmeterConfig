@@ -4,7 +4,7 @@ RainmeterConfig
 The configuration about Rainmeter
 
 ##Usage
-Copy the configuration to path %appdata%\Rainmeter
+Copy the configuration to path `%USERPROFILE%\My Documents\Rainmeter\Skins`
 
 ##Screenshot
 ![NaoTrash](https://raw.githubusercontent.com/Marslo/RainmeterConfig/master/Screenshots/2014.12.11_NeoTrash.png)
