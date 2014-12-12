@@ -4,7 +4,8 @@ RainmeterConfig
 The configuration about Rainmeter
 
 ##Usage
-Copy the configuration to path `%USERPROFILE%\My Documents\Rainmeter\Skins`
+- Copy the configuration (`${RainmeterConfig}\Config`) to path `%APPDATA%\Rainmeter`
+- Copy skins (`${RainmeterConfig\Skins\EnhancedByMarslo\Candara}`) to `%USERPROFIEL%\My Documents\Rainmeter\Skins`
 
 ##Screenshot
 ![NaoTrash](https://raw.githubusercontent.com/Marslo/RainmeterConfig/master/Screenshots/2014.12.11_NeoTrash.png)
@@ -19,6 +20,10 @@ Copy the configuration to path `%USERPROFILE%\My Documents\Rainmeter\Skins`
     SkinPath: C:\Marslo\MyProgram\Rainmeter\Skins\
 
 ### Specified Skins
+- OlderVersion:
 
-    RainmeterConfig\3.1.0Beta\Skins
+          ${RainmeterConfig}\Skins\3.1.0Beta
 
+- LatestVersion:
+
+          ${RainmeterConfig}\Skins\EnhancedByMarslo
